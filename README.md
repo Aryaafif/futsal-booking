@@ -7,7 +7,7 @@
 - Konfirmasi admin
 
 ## Link
-GitHub: https://github.com/username/futsal-booking
+GitHub: https://github.com/Aryaafif/futsal-booking.git
 Web: https://aryaafif.github.io/futsal-booking/
 
 ## Pengujian
